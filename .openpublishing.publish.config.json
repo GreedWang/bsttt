@@ -17,7 +17,9 @@
       "build_source_folder": "bsttt",
       "docset_name": "bsttt",
       "locale": "en-us",
-      "moniker_ranges": [],
+      "moniker_ranges": [
+        " netframework-4.5.2  ||  netframework-4.6.2 "
+      ],
       "monikers": [],
       "open_to_public_contributors": true,
       "template_folder": "_themes",
